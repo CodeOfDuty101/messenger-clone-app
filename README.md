@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## My Personal Project
-Heres a Link below:
+Here's a Link:
 https://messenger-clone-app-gules.vercel.app/
 
 ## Getting Started
